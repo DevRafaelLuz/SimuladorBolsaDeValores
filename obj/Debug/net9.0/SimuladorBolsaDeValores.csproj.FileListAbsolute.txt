@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\bin\Debug\net9.0\SimuladorBolsaDeValores.exe
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\bin\Debug\net9.0\SimuladorBolsaDeValores.deps.json
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\bin\Debug\net9.0\SimuladorBolsaDeValores.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\bin\Debug\net9.0\SimuladorBolsaDeValores.dll
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\bin\Debug\net9.0\SimuladorBolsaDeValores.pdb
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.sourcelink.json
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.dll
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\refint\SimuladorBolsaDeValores.dll
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.pdb
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\SimuladorBolsaDeValores.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\VSCode\SimuladorBolsaDeValores\obj\Debug\net9.0\ref\SimuladorBolsaDeValores.dll
