@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorBolsaDeValores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd23fa3aa55a2904a8dfc19c749e1ab13b645e93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99f749c1d4086673e6d12dc20634ad9f4d49bca")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorBolsaDeValores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorBolsaDeValores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
