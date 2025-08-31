@@ -1,0 +1,64 @@
+# Pastas de build
+bin/
+obj/
+
+# Configurações específicas do VS Code
+.vscode/
+
+# Configurações específicas do Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos temporários e de log
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+*~
+
+# Arquivos de cache e sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Segredos e variáveis de ambiente
+.env
+secrets.json
+
+# Relatórios de cobertura
+coverage/
+*.coverage
+*.coveragexml
+
+# Histórico local do VS Code
+.history/
+
+# Arquivos gerados pelo Mono
+mono_crash.*
+
+# Arquivos de certificado
+*.pfx
+*.p12
+
+# Arquivos de instalação do Windows
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Node.js (caso use em conjunto)
+node_modules/
+
+# Azure Pipelines
+.azuredevops/
+
+# Docker
+docker-compose.override.yml
