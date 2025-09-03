@@ -1,0 +1,78 @@
+@{
+    ViewData["Title"] = "Bolsa de Valores";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bolsa de Valores Brasil</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>📈 Bolsa de Valores Brasil</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Cotações</a></li>
+                <li><a href="#">Notícias</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="destaques">
+        <h2>Destaques do Dia</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>IBOVESPA</h3>
+                <p>+1.25% • 120.350 pts</p>
+            </div>
+            <div class="card">
+                <h3>VALE3</h3>
+                <p>R$ 68,90 • -0.45%</p>
+            </div>
+            <div class="card">
+                <h3>PETR4</h3>
+                <p>R$ 32,50 • +0.80%</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="cotacoes">
+        <h2>Cotações em Tempo Real</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ação</th>
+                    <th>Preço</th>
+                    <th>Variação</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>ITUB4</td>
+                    <td>R$ 29,10</td>
+                    <td>+0.65%</td>
+                </tr>
+                <tr>
+                    <td>BBDC4</td>
+                    <td>R$ 23,80</td>
+                    <td>-0.20%</td>
+                </tr>
+                <tr>
+                    <td>ABEV3</td>
+                    <td>R$ 14,75</td>
+                    <td>+1.10%</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Bolsa de Valores Brasil. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
