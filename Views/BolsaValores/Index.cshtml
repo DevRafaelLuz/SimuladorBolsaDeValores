@@ -1,6 +1,9 @@
+@model List<BolsaValores.Models.Acao>
+
 @{
     ViewData["Title"] = "Bolsa de Valores";
 }
+
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -10,6 +13,10 @@
     <title>Bolsa de Valores Brasil</title>
     <link rel="stylesheet" href="~/css/style.css">
 </head>
+@if (ViewBag.Erro != null)
+{
+    <div class="alert alert-danger">@ViewBag.Erro</div>
+}
 <body>
     <header>
         <h1>📈 Bolsa de Valores Brasil</h1>
@@ -52,21 +59,14 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>ITUB4</td>
-                    <td>R$ 29,10</td>
-                    <td>+0.65%</td>
-                </tr>
-                <tr>
-                    <td>BBDC4</td>
-                    <td>R$ 23,80</td>
-                    <td>-0.20%</td>
-                </tr>
-                <tr>
-                    <td>ABEV3</td>
-                    <td>R$ 14,75</td>
-                    <td>+1.10%</td>
-                </tr>
+                @foreach (var acao in Model)
+                {
+                    <tr>
+                        <td>@acao.Nome</td>
+                        <td>R$ @acao.Preco</td>
+                        <td>@acao.Variacao</td>
+                    </tr>
+                }
             </tbody>
         </table>
     </section>
