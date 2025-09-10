@@ -1,8 +1,12 @@
+using BolsaValores.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
-builder.Services.AddMemoryCache(); // Adiciona o serviço de cache
+builder.Services.AddMemoryCache();
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=usuarios.db"));
 
 var app = builder.Build();
 

@@ -1,9 +1,15 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace BolsaValores.Models
 {
     public class Usuario
     {
-        public string Nome { get; set; }
+        public int Id { get; set; }
+
+        [Required]
         public string Email { get; set; }
+
+        [Required]
         public string Senha { get; set; }
     }
 }
