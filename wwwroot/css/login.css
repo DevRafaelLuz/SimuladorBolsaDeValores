@@ -42,8 +42,8 @@ input[type="password"] {
     color: #333;
 }
 
-button {
-    width: 100%;
+#btn-entrar {
+    width: 49.3%;
     padding: 12px;
     background-color: #00b894;
     border: none;
@@ -54,8 +54,24 @@ button {
     transition: background-color 0.3s ease;
 }
 
-button:hover {
+#btn-entrar:hover {
     background-color: #019875;
+}
+
+#btn-cadastrar {
+    width: 49.3%;
+    padding: 12px;
+    background-color: #51d6bc;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#btn-cadastrar:hover {
+    background-color: #00b894;
 }
 
 .mensagem-erro {

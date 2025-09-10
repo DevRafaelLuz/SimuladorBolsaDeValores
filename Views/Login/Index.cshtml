@@ -19,10 +19,10 @@
             @Html.LabelFor(m => m.Senha)
             @Html.PasswordFor(m => m.Senha)
         </div>
-        <button type="submit">Entrar</button>
         <a href="@Url.Action("Novo", "Cadastro")">
-            <button type="button">Cadastrar Novo Usuário</button>
+            <button type="button" id="btn-cadastrar">Cadastrar Novo Usuário</button>
         </a>
+        <button type="submit" id="btn-entrar">Entrar</button>
     }
 
     @if (ViewBag.Mensagem != null)
