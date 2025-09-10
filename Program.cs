@@ -11,7 +11,7 @@ app.UseRouting();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=BolsaValores}/{action=Index}/{id?}"
+    pattern: "{controller=Login}/{action=Index}/{id?}"
 );
 
 app.Run();

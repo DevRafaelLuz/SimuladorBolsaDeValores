@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using BolsaValores.Models;
 using Microsoft.Extensions.Caching.Memory;
 using System.Text.Json;
+using System.Globalization;
 
 namespace BolsaValores.Controllers
 {
@@ -19,7 +20,7 @@ namespace BolsaValores.Controllers
             _cache = memoryCache;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Acao()
         {
             List<Acao>? acoes;
 
@@ -53,7 +54,10 @@ namespace BolsaValores.Controllers
                         {
                             var nome = nomeProp.GetString();
                             var precoStr = quote.TryGetProperty("05. price", out var precoProp) ? precoProp.GetString() : "0";
-                            var preco = decimal.TryParse(precoStr, out var tmpPreco) ? tmpPreco : 0;
+                            if (!decimal.TryParse(precoStr, NumberStyles.Any, CultureInfo.InvariantCulture, out var preco))
+                            {
+                                preco = 0;
+                            }
                             var variacao = quote.TryGetProperty("10. change percent", out var varElem) ? varElem.GetString() : "N/A";
                             acoes.Add(new Acao { Nome = nome, Preco = preco, Variacao = variacao });
                         }

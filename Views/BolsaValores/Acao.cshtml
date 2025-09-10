@@ -62,7 +62,7 @@
                 {
                     <tr>
                         <td>@acao.Nome</td>
-                        <td>R$ @acao.Preco</td>
+                        <td>R$ @acao.Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR"))</td>
                         <td>@acao.Variacao</td>
                     </tr>
                 }
