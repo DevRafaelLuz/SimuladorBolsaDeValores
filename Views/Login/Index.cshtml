@@ -4,22 +4,26 @@
     ViewData["Title"] = "Bolsa de Valores";
 }
 
-<h2>Login</h2>
+<link rel="stylesheet" href="~/css/login.css" />
 
-@using (Html.BeginForm("Index", "Login", FormMethod.Post))
-{
-    <div>
-        @Html.LabelFor(m => m.Email)
-        @Html.TextBoxFor(m => m.Email)
-    </div>
-    <div>
-        @Html.LabelFor(m => m.Senha)
-        @Html.PasswordFor(m => m.Senha)
-    </div>
-    <button type="submit">Entrar</button>
-}
+<div class="login-container">
+    <h2>Login</h2>
 
-@if (ViewBag.Mensagem != null)
-{
-    <p style="color:red">@ViewBag.Mensagem</p>
-}
+    @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email)
+        </div>
+        <div>
+            @Html.LabelFor(m => m.Senha)
+            @Html.PasswordFor(m => m.Senha)
+        </div>
+        <button type="submit">Entrar</button>
+    }
+
+    @if (ViewBag.Mensagem != null)
+    {
+        <p class="mensagem-erro">@ViewBag.Mensagem</p>
+    }
+</div>
