@@ -4,7 +4,6 @@
     ViewData["Title"] = "Bolsa de Valores";
 }
 
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -13,11 +12,11 @@
     <title>Bolsa de Valores Brasil</title>
     <link rel="stylesheet" href="~/css/style.css">
 </head>
-@if (ViewBag.Erro != null)
-{
-    <div class="alert alert-danger">@ViewBag.Erro</div>
-}
 <body>
+    @if (ViewBag.Erro != null)
+    {
+        <div class="alert-danger">@ViewBag.Erro</div>
+    }
     <header>
         <h1>📈 Bolsa de Valores Brasil</h1>
         <nav>
