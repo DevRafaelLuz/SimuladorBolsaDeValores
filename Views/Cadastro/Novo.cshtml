@@ -1,16 +1,20 @@
 @model BolsaValores.Models.Usuario
 
-<h2>Cadastrar Novo Usuário</h2>
+<link rel="stylesheet" href="~/css/novo.css" />
 
-@using (Html.BeginForm("Novo", "Cadastro", FormMethod.Post))
-{
-    <div>
-        @Html.LabelFor(m => m.Email)
-        @Html.TextBoxFor(m => m.Email)
-    </div>
-    <div>
-        @Html.LabelFor(m => m.Senha)
-        @Html.PasswordFor(m => m.Senha)
-    </div>
-    <button type="submit">Cadastrar</button>
-}
+<div class="cadastro-container">
+    <h2>Cadastrar Novo Usuário</h2>
+
+    @using (Html.BeginForm("Novo", "Cadastro", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email)
+        </div>
+        <div>
+            @Html.LabelFor(m => m.Senha)
+            @Html.PasswordFor(m => m.Senha)
+        </div>
+        <button type="submit">Cadastrar</button>
+    }
+</div>
