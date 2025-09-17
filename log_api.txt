@@ -358,3 +358,228 @@
     }
 }
 
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.6000",
+        "03. high": "31.6800",
+        "04. low": "31.3400",
+        "05. price": "31.5300",
+        "06. volume": "19063600",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "31.4500",
+        "09. change": "0.0800",
+        "10. change percent": "0.2544%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "57.7700",
+        "03. high": "58.0600",
+        "04. low": "57.1900",
+        "05. price": "57.7000",
+        "06. volume": "15602100",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "57.5000",
+        "09. change": "0.2000",
+        "10. change percent": "0.3478%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "38.1900",
+        "03. high": "38.2500",
+        "04. low": "37.6700",
+        "05. price": "37.9000",
+        "06. volume": "19395900",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "38.0000",
+        "09. change": "-0.1000",
+        "10. change percent": "-0.2632%"
+    }
+}
+
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.6000",
+        "03. high": "31.6800",
+        "04. low": "31.3400",
+        "05. price": "31.5300",
+        "06. volume": "19063600",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "31.4500",
+        "09. change": "0.0800",
+        "10. change percent": "0.2544%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "57.7700",
+        "03. high": "58.0600",
+        "04. low": "57.1900",
+        "05. price": "57.7000",
+        "06. volume": "15602100",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "57.5000",
+        "09. change": "0.2000",
+        "10. change percent": "0.3478%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "38.1900",
+        "03. high": "38.2500",
+        "04. low": "37.6700",
+        "05. price": "37.9000",
+        "06. volume": "19395900",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "38.0000",
+        "09. change": "-0.1000",
+        "10. change percent": "-0.2632%"
+    }
+}
+
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.6000",
+        "03. high": "31.6800",
+        "04. low": "31.3400",
+        "05. price": "31.5300",
+        "06. volume": "19063600",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "31.4500",
+        "09. change": "0.0800",
+        "10. change percent": "0.2544%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "57.7700",
+        "03. high": "58.0600",
+        "04. low": "57.1900",
+        "05. price": "57.7000",
+        "06. volume": "15602100",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "57.5000",
+        "09. change": "0.2000",
+        "10. change percent": "0.3478%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "38.1900",
+        "03. high": "38.2500",
+        "04. low": "37.6700",
+        "05. price": "37.9000",
+        "06. volume": "19395900",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "38.0000",
+        "09. change": "-0.1000",
+        "10. change percent": "-0.2632%"
+    }
+}
+
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.6000",
+        "03. high": "31.6800",
+        "04. low": "31.3400",
+        "05. price": "31.5300",
+        "06. volume": "19063600",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "31.4500",
+        "09. change": "0.0800",
+        "10. change percent": "0.2544%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "57.7700",
+        "03. high": "58.0600",
+        "04. low": "57.1900",
+        "05. price": "57.7000",
+        "06. volume": "15602100",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "57.5000",
+        "09. change": "0.2000",
+        "10. change percent": "0.3478%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "38.1900",
+        "03. high": "38.2500",
+        "04. low": "37.6700",
+        "05. price": "37.9000",
+        "06. volume": "19395900",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "38.0000",
+        "09. change": "-0.1000",
+        "10. change percent": "-0.2632%"
+    }
+}
+
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.6000",
+        "03. high": "31.6800",
+        "04. low": "31.3400",
+        "05. price": "31.5300",
+        "06. volume": "19063600",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "31.4500",
+        "09. change": "0.0800",
+        "10. change percent": "0.2544%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "57.7700",
+        "03. high": "58.0600",
+        "04. low": "57.1900",
+        "05. price": "57.7000",
+        "06. volume": "15602100",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "57.5000",
+        "09. change": "0.2000",
+        "10. change percent": "0.3478%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "38.1900",
+        "03. high": "38.2500",
+        "04. low": "37.6700",
+        "05. price": "37.9000",
+        "06. volume": "19395900",
+        "07. latest trading day": "2025-09-16",
+        "08. previous close": "38.0000",
+        "09. change": "-0.1000",
+        "10. change percent": "-0.2632%"
+    }
+}
+

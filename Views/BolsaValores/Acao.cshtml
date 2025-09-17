@@ -33,16 +33,16 @@
         <h2>Destaques do Dia</h2>
         <div class="cards">
             <div class="card">
-                <h3>IBOVESPA</h3>
-                <p>+1.25% • 120.350 pts</p>
+                <h3>@Model[0].Nome</h3>
+                <p>R$ @Model[0].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[0].Variacao</p>
             </div>
             <div class="card">
-                <h3>VALE3</h3>
-                <p>R$ 68,90 • -0.45%</p>
+                <h3>@Model[1].Nome</h3>
+                <p>R$ @Model[1].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[1].Variacao</p>
             </div>
             <div class="card">
-                <h3>PETR4</h3>
-                <p>R$ 32,50 • +0.80%</p>
+                <h3>@Model[2].Nome</h3>
+                <p>R$ @Model[2].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[2].Variacao</p>
             </div>
         </div>
     </section>
