@@ -11,7 +11,28 @@ namespace BolsaValores.Controllers
         private readonly HttpClient _httpClient;
         private readonly IMemoryCache _cache;
         private const string ApiKey = "MAMXSKLST8SG27HL";
-        private static readonly string[] symbols = { "PETR4.SA", "VALE3.SA", "ITUB4.SA" };
+        private static readonly string[] symbols = {
+            "PETR4.SA",  // Petrobras PN
+            "VALE3.SA",  // Vale ON
+            "ITUB4.SA",  // Itaú Unibanco PN
+            "BBDC4.SA",  // Bradesco PN
+            "ABEV3.SA",  // Ambev ON
+            "BBAS3.SA",  // Banco do Brasil ON
+            "B3SA3.SA",  // B3 ON (a própria bolsa)
+            "WEGE3.SA",  // Weg ON
+            "MGLU3.SA",  // Magazine Luiza ON
+            "LREN3.SA",  // Lojas Renner ON
+            "JBSS3.SA",  // JBS ON
+            "SUZB3.SA",  // Suzano ON
+            "RENT3.SA",  // Localiza ON
+            "EQTL3.SA",  // Equatorial Energia ON
+            "GGBR4.SA",  // Gerdau PN
+            "CSNA3.SA",  // CSN ON
+            "KLBN11.SA", // Klabin Units
+            "RADL3.SA",  // Raia Drogasil ON
+            "HAPV3.SA",  // Hapvida ON
+            "CYRE3.SA"   // Cyrela ON
+        };
         private const string CacheKey = "acoes_cache";
 
         public BolsaValoresController(IHttpClientFactory httpClientFactory, IMemoryCache memoryCache)

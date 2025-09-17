@@ -583,3 +583,207 @@
     }
 }
 
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "31.5400",
+        "03. high": "31.7900",
+        "04. low": "31.4600",
+        "05. price": "31.7200",
+        "06. volume": "29053600",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "31.5300",
+        "09. change": "0.1900",
+        "10. change percent": "0.6026%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {}
+}
+
+[ITUB4.SA] {
+    "Global Quote": {}
+}
+
+[BBDC4.SA] {
+    "Global Quote": {}
+}
+
+[ABEV3.SA] {
+    "Global Quote": {}
+}
+
+[BBAS3.SA] {
+    "Global Quote": {}
+}
+
+[B3SA3.SA] {
+    "Global Quote": {
+        "01. symbol": "B3SA3.SA",
+        "02. open": "13.4500",
+        "03. high": "14.0400",
+        "04. low": "13.4300",
+        "05. price": "13.7200",
+        "06. volume": "39736400",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "13.4800",
+        "09. change": "0.2400",
+        "10. change percent": "1.7804%"
+    }
+}
+
+[WEGE3.SA] {
+    "Global Quote": {
+        "01. symbol": "WEGE3.SA",
+        "02. open": "36.7900",
+        "03. high": "36.9800",
+        "04. low": "36.4600",
+        "05. price": "36.7100",
+        "06. volume": "9527800",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "36.7700",
+        "09. change": "-0.0600",
+        "10. change percent": "-0.1632%"
+    }
+}
+
+[MGLU3.SA] {
+    "Global Quote": {
+        "01. symbol": "MGLU3.SA",
+        "02. open": "10.7800",
+        "03. high": "12.1300",
+        "04. low": "10.7400",
+        "05. price": "11.3100",
+        "06. volume": "49416200",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "10.7400",
+        "09. change": "0.5700",
+        "10. change percent": "5.3073%"
+    }
+}
+
+[LREN3.SA] {
+    "Global Quote": {
+        "01. symbol": "LREN3.SA",
+        "02. open": "17.0100",
+        "03. high": "17.5400",
+        "04. low": "16.7900",
+        "05. price": "17.0200",
+        "06. volume": "31066300",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "16.9000",
+        "09. change": "0.1200",
+        "10. change percent": "0.7101%"
+    }
+}
+
+[JBSS3.SA] {
+    "Global Quote": {
+        "01. symbol": "JBSS3.SA",
+        "02. open": "76.7500",
+        "03. high": "77.4000",
+        "04. low": "75.8000",
+        "05. price": "76.9300",
+        "06. volume": "2206177",
+        "07. latest trading day": "2025-08-08",
+        "08. previous close": "76.7500",
+        "09. change": "0.1800",
+        "10. change percent": "0.2345%"
+    }
+}
+
+[SUZB3.SA] {
+    "Global Quote": {
+        "01. symbol": "SUZB3.SA",
+        "02. open": "50.7500",
+        "03. high": "51.2200",
+        "04. low": "50.3300",
+        "05. price": "50.9000",
+        "06. volume": "4706800",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "50.6800",
+        "09. change": "0.2200",
+        "10. change percent": "0.4341%"
+    }
+}
+
+[RENT3.SA] {
+    "Global Quote": {
+        "01. symbol": "RENT3.SA",
+        "02. open": "38.9500",
+        "03. high": "40.9600",
+        "04. low": "38.9000",
+        "05. price": "40.1000",
+        "06. volume": "9780800",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "39.1000",
+        "09. change": "1.0000",
+        "10. change percent": "2.5575%"
+    }
+}
+
+[EQTL3.SA] {
+    "Global Quote": {
+        "01. symbol": "EQTL3.SA",
+        "02. open": "36.3400",
+        "03. high": "36.8300",
+        "04. low": "36.2100",
+        "05. price": "36.6600",
+        "06. volume": "7080300",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "36.2500",
+        "09. change": "0.4100",
+        "10. change percent": "1.1310%"
+    }
+}
+
+[GGBR4.SA] {
+    "Global Quote": {
+        "01. symbol": "GGBR4.SA",
+        "02. open": "16.7000",
+        "03. high": "17.0500",
+        "04. low": "16.5900",
+        "05. price": "16.8400",
+        "06. volume": "7240800",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "16.7800",
+        "09. change": "0.0600",
+        "10. change percent": "0.3576%"
+    }
+}
+
+[CSNA3.SA] {
+    "Global Quote": {
+        "01. symbol": "CSNA3.SA",
+        "02. open": "8.0400",
+        "03. high": "8.3100",
+        "04. low": "8.0100",
+        "05. price": "8.1100",
+        "06. volume": "8487300",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "8.0700",
+        "09. change": "0.0400",
+        "10. change percent": "0.4957%"
+    }
+}
+
+[KLBN11.SA] {
+    "Global Quote": {
+        "01. symbol": "KLBN11.SA",
+        "02. open": "18.3200",
+        "03. high": "18.5300",
+        "04. low": "18.3200",
+        "05. price": "18.4500",
+        "06. volume": "5497300",
+        "07. latest trading day": "2025-09-17",
+        "08. previous close": "18.3200",
+        "09. change": "0.1300",
+        "10. change percent": "0.7096%"
+    }
+}
+
+[RADL3.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
