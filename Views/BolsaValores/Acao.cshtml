@@ -17,14 +17,15 @@
     {
         <div class="alert-danger">@ViewBag.Erro</div>
     }
+    <div id="inicio"></div>
     <header>
         <h1>📈 Bolsa de Valores Brasil</h1>
         <nav>
             <ul>
-                <li><a href="#">Início</a></li>
-                <li><a href="#">Cotações</a></li>
-                <li><a href="#">Notícias</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#cotacoes">Cotações</a></li>
+                <li><a href="#noticias">Notícias</a></li>
+                <li><a href="#contato">Contato</a></li>
             </ul>
         </nav>
     </header>
@@ -47,7 +48,7 @@
         </div>
     </section>
 
-    <section class="cotacoes">
+    <section id="cotacoes" class="cotacoes">
         <h2>Cotações em Tempo Real</h2>
         <table>
             <thead>
@@ -70,7 +71,7 @@
         </table>
     </section>
 
-    <section class="noticias">
+    <section id="noticias" class="noticias">
         <h2>Últimas Notícias do Mercado</h2>
         <div class="noticias-lista">
             <article class="noticia">
@@ -93,7 +94,7 @@
         </div>
     </section>
 
-    <section class="contato">
+    <section id="contato" class="contato">
         <h2>Fale Conosco</h2>
         <div class="contato-conteudo">
             <div class="contato-info">

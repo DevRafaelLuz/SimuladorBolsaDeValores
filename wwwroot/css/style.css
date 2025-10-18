@@ -12,6 +12,9 @@ body {
 }
 
 header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     background-color: #1a2b4c;
     color: white;
     padding: 20px;
@@ -200,4 +203,8 @@ footer {
 
 .noticia a:hover {
     text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
 }
