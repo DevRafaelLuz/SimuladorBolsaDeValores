@@ -100,3 +100,57 @@ footer {
     font-size: 1.1rem;
     border: 1px solid #722323;
 }
+
+.contato {
+    padding: 40px 20px;
+    background-color: #eaf0f6;
+}
+
+.contato h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contato-conteudo {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+
+    & input, textarea {
+        padding: 5px 0 5px 5px;
+    }
+}
+
+.contato-info {
+    flex: 1;
+    min-width: 250px;
+}
+
+.contato-info p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+.form-contato {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    & button {
+        padding: 10px;
+        background-color: #eaf0f6;
+        color: #1a2b4c;
+        border: 1px solid #1a2b4c;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    & button:hover {
+        background-color: #1a2b4c;
+        color: #eaf0f6;
+    }
+}

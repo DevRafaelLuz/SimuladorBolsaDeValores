@@ -787,3 +787,473 @@
     "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
 }
 
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "29.5000",
+        "03. high": "29.9500",
+        "04. low": "29.3100",
+        "05. price": "29.7300",
+        "06. volume": "35674800",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "29.4500",
+        "09. change": "0.2800",
+        "10. change percent": "0.9508%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "59.9000",
+        "03. high": "60.3000",
+        "04. low": "59.8000",
+        "05. price": "60.1300",
+        "06. volume": "17296400",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "60.3000",
+        "09. change": "-0.1700",
+        "10. change percent": "-0.2819%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "37.1500",
+        "03. high": "37.6200",
+        "04. low": "37.0100",
+        "05. price": "37.4900",
+        "06. volume": "16953900",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "37.3600",
+        "09. change": "0.1300",
+        "10. change percent": "0.3480%"
+    }
+}
+
+[BBDC4.SA] {
+    "Global Quote": {
+        "01. symbol": "BBDC4.SA",
+        "02. open": "17.4300",
+        "03. high": "17.7500",
+        "04. low": "17.2700",
+        "05. price": "17.6800",
+        "06. volume": "33705700",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "17.5600",
+        "09. change": "0.1200",
+        "10. change percent": "0.6834%"
+    }
+}
+
+[ABEV3.SA] {
+    "Global Quote": {
+        "01. symbol": "ABEV3.SA",
+        "02. open": "12.1300",
+        "03. high": "12.4000",
+        "04. low": "12.1000",
+        "05. price": "12.3700",
+        "06. volume": "23453900",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "12.1500",
+        "09. change": "0.2200",
+        "10. change percent": "1.8107%"
+    }
+}
+
+[BBAS3.SA] {
+    "Global Quote": {
+        "01. symbol": "BBAS3.SA",
+        "02. open": "20.3700",
+        "03. high": "20.9000",
+        "04. low": "20.1600",
+        "05. price": "20.9000",
+        "06. volume": "68059400",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "20.3700",
+        "09. change": "0.5300",
+        "10. change percent": "2.6019%"
+    }
+}
+
+[B3SA3.SA] {
+    "Global Quote": {
+        "01. symbol": "B3SA3.SA",
+        "02. open": "12.5500",
+        "03. high": "12.7100",
+        "04. low": "12.5000",
+        "05. price": "12.5600",
+        "06. volume": "38328300",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "12.6000",
+        "09. change": "-0.0400",
+        "10. change percent": "-0.3175%"
+    }
+}
+
+[WEGE3.SA] {
+    "Global Quote": {
+        "01. symbol": "WEGE3.SA",
+        "02. open": "38.3100",
+        "03. high": "40.6600",
+        "04. low": "38.2300",
+        "05. price": "40.1500",
+        "06. volume": "28798000",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "38.4300",
+        "09. change": "1.7200",
+        "10. change percent": "4.4757%"
+    }
+}
+
+[MGLU3.SA] {
+    "Global Quote": {
+        "01. symbol": "MGLU3.SA",
+        "02. open": "8.0900",
+        "03. high": "8.4500",
+        "04. low": "7.9700",
+        "05. price": "8.4000",
+        "06. volume": "27042000",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "8.2000",
+        "09. change": "0.2000",
+        "10. change percent": "2.4390%"
+    }
+}
+
+[LREN3.SA] {
+    "Global Quote": {
+        "01. symbol": "LREN3.SA",
+        "02. open": "14.1500",
+        "03. high": "14.4300",
+        "04. low": "14.1000",
+        "05. price": "14.2400",
+        "06. volume": "11859700",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "14.3100",
+        "09. change": "-0.0700",
+        "10. change percent": "-0.4892%"
+    }
+}
+
+[JBSS3.SA] {
+    "Global Quote": {
+        "01. symbol": "JBSS3.SA",
+        "02. open": "76.7500",
+        "03. high": "77.4000",
+        "04. low": "75.8000",
+        "05. price": "76.9300",
+        "06. volume": "2206177",
+        "07. latest trading day": "2025-08-08",
+        "08. previous close": "76.7500",
+        "09. change": "0.1800",
+        "10. change percent": "0.2345%"
+    }
+}
+
+[SUZB3.SA] {
+    "Global Quote": {
+        "01. symbol": "SUZB3.SA",
+        "02. open": "48.0500",
+        "03. high": "48.0600",
+        "04. low": "47.5000",
+        "05. price": "47.6300",
+        "06. volume": "4196700",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "47.8000",
+        "09. change": "-0.1700",
+        "10. change percent": "-0.3556%"
+    }
+}
+
+[RENT3.SA] {
+    "Global Quote": {
+        "01. symbol": "RENT3.SA",
+        "02. open": "36.0100",
+        "03. high": "36.7900",
+        "04. low": "35.7000",
+        "05. price": "36.6000",
+        "06. volume": "6158900",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "36.1000",
+        "09. change": "0.5000",
+        "10. change percent": "1.3850%"
+    }
+}
+
+[EQTL3.SA] {
+    "Global Quote": {
+        "01. symbol": "EQTL3.SA",
+        "02. open": "35.5100",
+        "03. high": "36.5300",
+        "04. low": "35.5100",
+        "05. price": "36.3300",
+        "06. volume": "12506600",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "35.8800",
+        "09. change": "0.4500",
+        "10. change percent": "1.2542%"
+    }
+}
+
+[GGBR4.SA] {
+    "Global Quote": {
+        "01. symbol": "GGBR4.SA",
+        "02. open": "17.6100",
+        "03. high": "18.1600",
+        "04. low": "17.6100",
+        "05. price": "18.0000",
+        "06. volume": "12022200",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "17.6700",
+        "09. change": "0.3300",
+        "10. change percent": "1.8676%"
+    }
+}
+
+[CSNA3.SA] {
+    "Global Quote": {
+        "01. symbol": "CSNA3.SA",
+        "02. open": "8.2400",
+        "03. high": "8.3800",
+        "04. low": "8.1300",
+        "05. price": "8.3400",
+        "06. volume": "7199800",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "8.3000",
+        "09. change": "0.0400",
+        "10. change percent": "0.4819%"
+    }
+}
+
+[KLBN11.SA] {
+    "Global Quote": {
+        "01. symbol": "KLBN11.SA",
+        "02. open": "17.4600",
+        "03. high": "17.6700",
+        "04. low": "17.3800",
+        "05. price": "17.5000",
+        "06. volume": "12738800",
+        "07. latest trading day": "2025-10-15",
+        "08. previous close": "17.4500",
+        "09. change": "0.0500",
+        "10. change percent": "0.2865%"
+    }
+}
+
+[RADL3.SA] {
+    "Global Quote": {
+        "01. symbol": "RADL3.SA",
+        "02. open": "19.3500",
+        "03. high": "19.6500",
+        "04. low": "19.1900",
+        "05. price": "19.5800",
+        "06. volume": "6034600",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "19.5300",
+        "09. change": "0.0500",
+        "10. change percent": "0.2560%"
+    }
+}
+
+[HAPV3.SA] {
+    "Global Quote": {
+        "01. symbol": "HAPV3.SA",
+        "02. open": "32.3900",
+        "03. high": "33.2700",
+        "04. low": "32.1100",
+        "05. price": "32.9000",
+        "06. volume": "3264600",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "32.6200",
+        "09. change": "0.2800",
+        "10. change percent": "0.8584%"
+    }
+}
+
+[CYRE3.SA] {
+    "Global Quote": {
+        "01. symbol": "CYRE3.SA",
+        "02. open": "28.5700",
+        "03. high": "28.7700",
+        "04. low": "28.1500",
+        "05. price": "28.7700",
+        "06. volume": "7203600",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "28.8300",
+        "09. change": "-0.0600",
+        "10. change percent": "-0.2081%"
+    }
+}
+
+[PETR4.SA] {
+    "Global Quote": {
+        "01. symbol": "PETR4.SA",
+        "02. open": "29.5000",
+        "03. high": "29.9500",
+        "04. low": "29.3100",
+        "05. price": "29.7300",
+        "06. volume": "35674800",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "29.4500",
+        "09. change": "0.2800",
+        "10. change percent": "0.9508%"
+    }
+}
+
+[VALE3.SA] {
+    "Global Quote": {
+        "01. symbol": "VALE3.SA",
+        "02. open": "59.9000",
+        "03. high": "60.3000",
+        "04. low": "59.8000",
+        "05. price": "60.1300",
+        "06. volume": "17296400",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "60.3000",
+        "09. change": "-0.1700",
+        "10. change percent": "-0.2819%"
+    }
+}
+
+[ITUB4.SA] {
+    "Global Quote": {
+        "01. symbol": "ITUB4.SA",
+        "02. open": "37.1500",
+        "03. high": "37.6200",
+        "04. low": "37.0100",
+        "05. price": "37.4900",
+        "06. volume": "16953900",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "37.3600",
+        "09. change": "0.1300",
+        "10. change percent": "0.3480%"
+    }
+}
+
+[BBDC4.SA] {
+    "Global Quote": {
+        "01. symbol": "BBDC4.SA",
+        "02. open": "17.4300",
+        "03. high": "17.7500",
+        "04. low": "17.2700",
+        "05. price": "17.6800",
+        "06. volume": "33705700",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "17.5600",
+        "09. change": "0.1200",
+        "10. change percent": "0.6834%"
+    }
+}
+
+[ABEV3.SA] {
+    "Global Quote": {
+        "01. symbol": "ABEV3.SA",
+        "02. open": "12.1300",
+        "03. high": "12.4000",
+        "04. low": "12.1000",
+        "05. price": "12.3700",
+        "06. volume": "23453900",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "12.1500",
+        "09. change": "0.2200",
+        "10. change percent": "1.8107%"
+    }
+}
+
+[BBAS3.SA] {
+    "Global Quote": {
+        "01. symbol": "BBAS3.SA",
+        "02. open": "20.3700",
+        "03. high": "20.9000",
+        "04. low": "20.1600",
+        "05. price": "20.9000",
+        "06. volume": "68059400",
+        "07. latest trading day": "2025-10-17",
+        "08. previous close": "20.3700",
+        "09. change": "0.5300",
+        "10. change percent": "2.6019%"
+    }
+}
+
+[B3SA3.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+
+[PETR4.SA] {
+    "Information": "We have detected your API key as MAMXSKLST8SG27HL and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+

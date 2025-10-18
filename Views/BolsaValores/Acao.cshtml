@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bolsa de Valores Brasil</title>
-    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
 </head>
 <body>
     @if (ViewBag.Erro != null)
@@ -68,6 +68,33 @@
                 }
             </tbody>
         </table>
+    </section>
+
+    <section class="contato">
+        <h2>Fale Conosco</h2>
+        <div class="contato-conteudo">
+            <div class="contato-info">
+                <p><strong>Email:</strong> atendimento@bolsabrasil.com.br</p>
+                <p><strong>Telefone:</strong> (41) 4002-8922</p>
+                <p><strong>WhatsApp:</strong> (41) 98888-1234</p>
+                <p><strong>Endereço:</strong> Av. Positivo, 1234 - Curitiba, PR</p>
+                <p><strong>Horário de atendimento:</strong> Segunda a sexta, das 9h às 18h</p>
+            </div>
+
+            <form class="form-contato">
+                <h3>Envie uma mensagem</h3>
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" placeholder="Seu nome" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="seu@email.com" required>
+
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva sua mensagem..." required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
     </section>
 
     <footer>
