@@ -1,3 +1,4 @@
+@using BolsaValores.Models
 @model List<BolsaValores.Models.Acao>
 
 @{
@@ -33,18 +34,13 @@
     <section class="destaques">
         <h2>Destaques do Dia</h2>
         <div class="cards">
-            <div class="card">
-                <h3>@Model[0].Nome</h3>
-                <p>R$ @Model[0].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[0].Variacao</p>
-            </div>
-            <div class="card">
-                <h3>@Model[1].Nome</h3>
-                <p>R$ @Model[1].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[1].Variacao</p>
-            </div>
-            <div class="card">
-                <h3>@Model[2].Nome</h3>
-                <p>R$ @Model[2].Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @Model[2].Variacao</p>
-            </div>
+            @foreach (var destaque in (List<Acao>)ViewBag.Destaques)
+            {
+                <div class="card">
+                    <h3>@destaque.Nome</h3>
+                    <p>R$ @destaque.Preco.ToString("N2", new System.Globalization.CultureInfo("pt-BR")) - @destaque.Variacao</p>
+                </div>
+            }
         </div>
     </section>
 

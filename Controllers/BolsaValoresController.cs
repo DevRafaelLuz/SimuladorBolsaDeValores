@@ -41,9 +41,22 @@ namespace BolsaValores.Controllers
             _cache = memoryCache;
         }
 
+        private decimal ParseVariacao(string variacaoStr)
+        {
+            if (string.IsNullOrWhiteSpace(variacaoStr))
+                return decimal.MinValue;
+
+            variacaoStr = variacaoStr.Replace("%", "").Replace("+", "").Trim();
+
+            if (decimal.TryParse(variacaoStr, NumberStyles.Any, CultureInfo.InvariantCulture, out var valor))
+                return valor;
+            
+            return decimal.MinValue;
+        }
+
         public async Task<IActionResult> Acao()
         {
-            List<Acao>? acoes;
+            List<Acao> acoes = null;
 
             // Tenta obter do cache
             if (!_cache.TryGetValue(CacheKey, out acoes) || acoes == null || acoes.Count == 0)
@@ -126,6 +139,14 @@ namespace BolsaValores.Controllers
                     new Acao { Nome = "ITUB4.SA", Preco = 30.10M, Variacao = "+0.55%" }
                 };
             }
+
+            var destaques = acoes
+            .Where(a => a.Variacao != null && a.Variacao.Contains("%"))
+            .OrderByDescending(a => ParseVariacao(a.Variacao))
+            .Take(3)
+            .ToList();
+
+            ViewBag.Destaques = destaques;
 
             return View(acoes);
         }
